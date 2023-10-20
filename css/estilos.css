@@ -6,3 +6,19 @@ img{
     width: 300px;
 }
 
+header{
+    background-color: #1b365d;
+}
+
+h1{
+    color: #FFFFFF;
+}
+
+nav ul li a{
+    color: #f2c75c;
+}
+
+aside blockquote{
+    border-left: 10px solid #5d3754;
+}
+
